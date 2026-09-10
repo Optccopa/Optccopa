@@ -8,3 +8,4 @@ My name is Ryder, I am a backend developer from the Usa.
 - [Neptune](https://github.com/Optccopa/neptune) - A Claude Code / Codex like agent harness written in python
 - [DonutStats](https://github.com/Optccopa/DonutStats) - A simple async python wrapper for the DonutSMP API
 - [Grep](https://github.com/Optccopa/Grep) - A simple grep tool written in C++ 20, optimized for speed
+- [Loc](https://github.com.Optccopa/loc) - An extremely simple recursive line counter written in C++ 20
