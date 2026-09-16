@@ -1,7 +1,7 @@
 # Hello
 My name is Ryder, I am a backend developer from the Usa.
 
-![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark)
+![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=2bbc8a&fire=2bbc8a)
 
 ## Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Library-discord.py-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Coolify-informational?style=flat&logo=coolify&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-D97757?logo=docker&style=flat&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Claude-D97757?logo=claude&style=flat&logoColor=white&color=2bbc8a)
