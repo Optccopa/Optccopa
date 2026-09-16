@@ -1,5 +1,5 @@
 # Hello
-My name is Ryder, I am a backend developer from the Usa.)
+My name is Ryder, I am a backend developer from the USA.
 
 ![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a)
 
