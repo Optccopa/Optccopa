@@ -4,7 +4,14 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 ![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a)
 
 ## Tools
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Library-discord.py-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Coolify-informational?style=flat&logo=coolify&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-D97757?logo=docker&style=flat&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Claude-D97757?logo=claude&style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Anthropic_SDK-informational?style=flat&logo=anthropic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Build-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Coolify-informational?style=flat&logo=coolify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&color=2bbc8a)
 
 ## Projects
 - [Neptune](https://github.com/Optccopa/neptune) - A Claude Code / Codex like agent harness written in python
