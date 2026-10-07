@@ -7,8 +7,10 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Library-Anthropic_SDK-informational?style=flat&logo=anthropic&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Coolify-informational?style=flat&logo=coolify&logoColor=white&color=2bbc8a)
