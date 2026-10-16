@@ -1,7 +1,7 @@
 # Hello
 My name is Ryder, I am a backend / software developer from the USA, mainly working with C, C++, and Python
 
-![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a)
+![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
 ## Tools
 ![](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
