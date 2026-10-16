@@ -12,9 +12,9 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 ![](https://img.shields.io/badge/Build-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ![](https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Tools-Coolify-6B21A8?style=for-the-badge&logo=coolify&logoColor=white)
-![](https://img.shields.io/badge/Tools-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Tool-Coolify-6B21A8?style=for-the-badge&logo=coolify&logoColor=white)
+![](https://img.shields.io/badge/Tool-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Projects
 - [Neptune](https://github.com/Optccopa/neptune) - A Claude Code / Codex like agent harness written in python
