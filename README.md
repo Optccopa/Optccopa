@@ -24,3 +24,4 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 - [DonutStats](https://github.com/Optccopa/DonutStats) - A simple async python wrapper for the DonutSMP API
 - [Grep](https://github.com/Optccopa/Grep) - A simple grep tool written in C++ 20, optimized for speed
 - [Loc](https://github.com/Optccopa/loc) - An extremely simple recursive line counter written in C++ 20
+- [WaveBot](https://github.com/Optccopa/WaveBot) - A extensive discord server partnership bot (150 servers peak)
