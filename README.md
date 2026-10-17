@@ -21,7 +21,7 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 ## Projects
 - [Neptune](https://github.com/Optccopa/neptune) - A Claude Code / Codex like agent harness written in Python
 - [SaturnAntiCheat](https://github.com/Optccopa/anticheat) - A kernal anti cheat written in C, with a usermode loader
-- [DonutStats](https://github.com/Optccopa/DonutStats) - A simple async python wrapper for the DonutSMP API
+- [DonutStats](https://github.com/Optccopa/DonutStats) - A simple async Python wrapper for the DonutSMP API
 - [Grep](https://github.com/Optccopa/Grep) - A simple grep tool written in C++ 20, optimized for speed
 - [Loc](https://github.com/Optccopa/loc) - An extremely simple recursive line counter written in C++ 20
-- [WaveBot](https://github.com/Optccopa/WaveBot) - A extensive discord server partnership bot (150 servers peak)
+- [WaveBot](https://github.com/Optccopa/WaveBot) - A extensive discord server partnership bot (150 servers peak), Stack: discord.py, postgres, redis
