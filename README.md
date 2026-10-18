@@ -1,8 +1,6 @@
 # Hello
 My name is Ryder, I am a backend / software developer from the USA, mainly working with C, C++, and Python
 
-![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
-
 ## Tools
 ![](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -14,14 +12,13 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 
 ![](https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Tool-Coolify-6B21A8?style=for-the-badge&logo=coolify&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![](https://img.shields.io/badge/Tool-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Projects
-- [Neptune](https://github.com/Optccopa/neptune) - A Claude Code/Codex like agent harness written in Python
-- [SaturnAntiCheat](https://github.com/Optccopa/anticheat) - A kernel anti cheat written in C, with a usermode loader
-- [DonutStats](https://github.com/Optccopa/DonutStats) - A simple async Python wrapper for the DonutSMP API
-- [Grep](https://github.com/Optccopa/Grep) - A simple grep tool written in C++ 20, optimized for speed
-- [Loc](https://github.com/Optccopa/loc) - An extremely simple recursive line counter written in C++ 20
-- [WaveBot](https://github.com/Optccopa/WaveBot) - An extensive discord server partnership bot (150 servers peak), Stack: discord.py, postgres, redis
+- [WaveBot](https://github.com/Optccopa/WaveBot) - An extensive Discord server partnership bot (150 servers peak). Stack: discord.py, Postgres, Redis.
+- [Neptune](https://github.com/Optccopa/Neptune) - A simple coding agent written in Python.
+- [SaturnAntiCheat](https://github.com/Optccopa/SaturnAntiCheat) - A kernel anti-cheat written in C99, with a usermode loader, can detect basic remote threads and LoadLibrary dlls, uses an IOCTL heartbeat to communicate.
+- [Grep](https://github.com/Optccopa/Grep) - A very light grep tool written in C++20, ~3x faster than GNU grep and matches ripgrep on small folders.
+- [Loc](https://github.com/Optccopa/Loc) - A light recursive line counter written in C++20 to quickly see the size of your project.
+- [DonutStats](https://github.com/Optccopa/DonutStats) - A simple async Python wrapper for the DonutSMP API.
