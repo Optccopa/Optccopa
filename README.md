@@ -2,6 +2,14 @@
 My name is Ryder, I am a backend / software developer from the USA, mainly working with C, C++, and Python
 
 ![Streak](https://streak-stats.demolab.com/?user=Optccopa&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+## Tools
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
+
+[![Libraries](https://skillicons.dev/icons?i=discord,cmake)](https://skillicons.dev)
+![](https://img.shields.io/badge/Anthropic_SDK-DE7536?style=flat&logo=anthropic&logoColor=white)
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,unreal,vscode)](https://skillicons.dev)
+![](https://img.shields.io/badge/Coolify-6B21A8?style=flat&logo=coolify&logoColor=white)
 
 ## Tools
 ![](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
