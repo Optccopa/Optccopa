@@ -16,7 +16,7 @@ My name is Ryder, I am a backend / software developer from the USA, mainly worki
 ![](https://img.shields.io/badge/Tool-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Projects
-- [WaveBot](https://github.com/Optccopa/WaveBot) - An extensive Discord server partnership bot (150 servers peak). Stack: discord.py, Postgres, Redis.
+- [WaveBot](https://github.com/Optccopa/WaveBot) - An extensive Discord server partnership bot (125 servers peak). Stack: discord.py, Postgres, Redis.
 - [Neptune](https://github.com/Optccopa/Neptune) - A simple coding agent written in Python.
 - [SaturnAntiCheat](https://github.com/Optccopa/SaturnAntiCheat) - A kernel anti-cheat written in C99, with a usermode loader, can detect basic remote threads and untrusted LoadLibrary dlls, uses an IOCTL heartbeat to communicate.
 - [Grep](https://github.com/Optccopa/Grep) - A very light grep tool written in C++20, ~3x faster than GNU grep and matches ripgrep on small folders.
